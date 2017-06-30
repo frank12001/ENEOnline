@@ -1,6 +1,8 @@
 # ENEOnline
 A Third-Person Action Shooter Game
 
+Client-Server architecture , Authoritative Server implementation (Authoritative servers and Dumb clients)
+
 ENEServer
 
   1. Made with Photon Server (socket server) 、 MySQL (database)
